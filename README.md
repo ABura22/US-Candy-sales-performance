@@ -1,4 +1,4 @@
- US Candy Sales Performance Optimization with Tableau
+ US Candy Supply Chain Optimization with Tableau
 
 Objective:
 The goal of this project was to analyze the Supply Chain of candy products in the US, focusing on factory-to-customer shipping routes, product margins, and identifying opportunities to optimize logistics and factory placement.
